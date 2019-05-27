@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/github-repo-viewer/static/css/main.6ecaae47.chunk.css",
+    "main.css": "/github-repo-viewer/static/css/main.b4dc67f4.chunk.css",
     "main.js": "/github-repo-viewer/static/js/main.00538493.chunk.js",
     "main.js.map": "/github-repo-viewer/static/js/main.00538493.chunk.js.map",
     "runtime~main.js": "/github-repo-viewer/static/js/runtime~main.f1956eb9.js",
@@ -8,8 +8,8 @@
     "static/js/2.bc309e66.chunk.js": "/github-repo-viewer/static/js/2.bc309e66.chunk.js",
     "static/js/2.bc309e66.chunk.js.map": "/github-repo-viewer/static/js/2.bc309e66.chunk.js.map",
     "index.html": "/github-repo-viewer/index.html",
-    "precache-manifest.d3f4cb6bde23f8997ed0b4b536196967.js": "/github-repo-viewer/precache-manifest.d3f4cb6bde23f8997ed0b4b536196967.js",
+    "precache-manifest.a04a05d534471f7ef4fd76753e4a5f78.js": "/github-repo-viewer/precache-manifest.a04a05d534471f7ef4fd76753e4a5f78.js",
     "service-worker.js": "/github-repo-viewer/service-worker.js",
-    "static/css/main.6ecaae47.chunk.css.map": "/github-repo-viewer/static/css/main.6ecaae47.chunk.css.map"
+    "static/css/main.b4dc67f4.chunk.css.map": "/github-repo-viewer/static/css/main.b4dc67f4.chunk.css.map"
   }
 }

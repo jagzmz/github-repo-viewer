@@ -68,6 +68,18 @@
   outline: none;
   cursor: pointer;
 }
+@media (max-width: 600px) {
+
+  .user-form {
+    display: flex;
+    flex-direction: column;
+  }
+  .user-form>button {
+    margin-top: 5px;
+    margin-left: 0px;
+  }
+
+}
 
 
 .App-link {

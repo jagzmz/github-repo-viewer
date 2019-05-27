@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/git-repo-viewer/static/css/main.6ecaae47.chunk.css",
-    "main.js": "/git-repo-viewer/static/js/main.1d6a18ac.chunk.js",
-    "main.js.map": "/git-repo-viewer/static/js/main.1d6a18ac.chunk.js.map",
-    "runtime~main.js": "/git-repo-viewer/static/js/runtime~main.a7768fb0.js",
-    "runtime~main.js.map": "/git-repo-viewer/static/js/runtime~main.a7768fb0.js.map",
-    "static/js/2.bc309e66.chunk.js": "/git-repo-viewer/static/js/2.bc309e66.chunk.js",
-    "static/js/2.bc309e66.chunk.js.map": "/git-repo-viewer/static/js/2.bc309e66.chunk.js.map",
-    "index.html": "/git-repo-viewer/index.html",
-    "precache-manifest.3442a7ef833b0b809ffa4fd92b08adb2.js": "/git-repo-viewer/precache-manifest.3442a7ef833b0b809ffa4fd92b08adb2.js",
-    "service-worker.js": "/git-repo-viewer/service-worker.js",
-    "static/css/main.6ecaae47.chunk.css.map": "/git-repo-viewer/static/css/main.6ecaae47.chunk.css.map"
+    "main.css": "/github-repo-viewer/static/css/main.6ecaae47.chunk.css",
+    "main.js": "/github-repo-viewer/static/js/main.00538493.chunk.js",
+    "main.js.map": "/github-repo-viewer/static/js/main.00538493.chunk.js.map",
+    "runtime~main.js": "/github-repo-viewer/static/js/runtime~main.f1956eb9.js",
+    "runtime~main.js.map": "/github-repo-viewer/static/js/runtime~main.f1956eb9.js.map",
+    "static/js/2.bc309e66.chunk.js": "/github-repo-viewer/static/js/2.bc309e66.chunk.js",
+    "static/js/2.bc309e66.chunk.js.map": "/github-repo-viewer/static/js/2.bc309e66.chunk.js.map",
+    "index.html": "/github-repo-viewer/index.html",
+    "precache-manifest.d3f4cb6bde23f8997ed0b4b536196967.js": "/github-repo-viewer/precache-manifest.d3f4cb6bde23f8997ed0b4b536196967.js",
+    "service-worker.js": "/github-repo-viewer/service-worker.js",
+    "static/css/main.6ecaae47.chunk.css.map": "/github-repo-viewer/static/css/main.6ecaae47.chunk.css.map"
   }
 }
